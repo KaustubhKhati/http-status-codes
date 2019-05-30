@@ -57,7 +57,7 @@ const { statusCodes } = require('http-status-response-codes');
 console.log(statusCodes.BAD_REQUEST) // Will give '400'
 ``` 
 
- ## [Server error responses](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status#Server_error_responses)[](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status#Server_error_responses)
+## [Server error responses](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status#Server_error_responses)[](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status#Server_error_responses)
 
 ```js
 const  HttpStatus = require('http-status-response-codes');
@@ -77,7 +77,7 @@ console.log(httpStatus.is4xxClientError()) // console logs  true.
 
 ``` 
  
- ## Is Error 
+## Is Error 
 Return true if status code is 4XX or 5XX
 
 ```js
