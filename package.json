@@ -1,0 +1,24 @@
+{
+  "name": "http-status-response-codes",
+  "version": "1.0.0",
+  "description": "A Http status module inspired from SpringBoot http package. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KaustubhKhati/http-status-codes.git"
+  },
+  "keywords": [
+    "http",
+    "nodejs",
+    "statuscode"
+  ],
+  "author": "Kaustubh Khati",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KaustubhKhati/http-status-codes/issues"
+  },
+  "homepage": "https://github.com/KaustubhKhati/http-status-codes#readme"
+}
