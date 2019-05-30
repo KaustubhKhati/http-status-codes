@@ -1,6 +1,6 @@
 {
   "name": "http-status-response-codes",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A Http status module inspired from SpringBoot http package. ",
   "main": "index.js",
   "scripts": {
